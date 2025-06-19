@@ -1,0 +1,23 @@
+Main category,Feature,Core Functionality,What does it cover?,Common FAQ's,Additional notes,Relevant Eng team / Squad,Primary WAU Metric
+Extension,Chrome Extension,Errors,"- Code 52
+- Code 60
+- Code 10
+- Error 429","- I'm getting the error XXXX when executing tasks with the extension
+- Unable to find the ""message"" button
+- Unable to send a LinkedIn request",,Extensions,#REF!
+,Chrome Extension,Overview,"General info about the extension
+- Install",How can I use the extension?,,Extensions,#REF!
+,Chrome Extension,Actions,"- Launch window mode
+- Apollo everywhere
+- Google calendar
+
+Gmail
+- Email tracking
+- Desktop notification opens/clicks
+- Email templates
+
+LinkedIn
+- Report issue
+- Prospect
+- Tasks
+- Add to sequence","The customer is inquiring about Gmail email tracking functionality","Reference for Gmail's email bar: https://example.com/docs",Extensions,#REF! 
