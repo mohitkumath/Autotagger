@@ -1,0 +1,1565 @@
+tags:
+- Extension > Chrome Extension > Errors:
+  - what_it_cover: |-
+      - Code 52
+      - Code 60
+      - Code 10
+      - Code 62
+      - Error 429
+      - Unauthorized error message
+    common_faq: |-
+      - I'm getting the error XXXX when executing tasks with the extension
+      - Unable to find the "message" button
+      - Unable to send a LinkedIn request
+- Extension > Chrome Extension > Overview:
+  - what_it_cover: |-
+      General info about the extension
+      - Install
+    common_faq: How can I use the extension?
+- Extension > Chrome Extension > Actions:
+  - what_it_cover: "- Launch window mode\n- Apollo everywhere\n- Google calendar\n\nGmail\n- Email tracking\n- Desktop notification opens/clicks\n- Reminder for no replies\n- Email logging to Salesforce\n- Apollo folder\n- Email templates\n- Nudge\n- Add to follow-up sequence\n- Contact prospecting\n\nOutlook \n- Email tracking\n\nLinkedIn\n- Report issue\n- Prospect\n- Tasks\n- Add to sequence\n- Add to list\n- Compose email\n- Export\n- Verify contact info\n- Track emails\n- Tasks\n- Save to Apollo\n- People filters\n- Push to CRM\n- Edit stage\n- Automated tasks\n- Task limits\n- Quicklinks\n\nSalesforce\n- Bulk select contacts\n- Import contacts to Apollo\n- Add contacts to sequence\n- Bulk select companies\n- Import companies to Apollo\n\nHubSpot\n- Bulk select contacts\n- Import contacts to Apollo\n- Add contacts to sequence\n- Bulk select companies\n- Import companies to Apollo"
+    common_faq: |-
+      The customer is inquiring about a personal email sent directly from their Gmail that is showing up in the "Recent Replies" section: Related to the Gmail email tracking.
+    additional_note: |-
+      Reference for the Gmail's email bar: https://apolloio.slack.com/archives/C06T3MJLQPJ/p1729278486822379
+- Extension > Chrome Extension > Limitation:
+  - what_it_cover: "- LinkedIn restriction \n- Sales Navigator automated tasks\n-Injected elements"
+    common_faq: |-
+      Why can't I use the automated tasks on Sales Navigator?
+      Can I select more than 25 records in LinkedIn?
+      Buttons in the LinkedIn page/Sales Nav are missing (injected elements)
+- Extension > Chrome Extension > Performance:
+  - what_it_cover: |-
+      - Reload extension
+      - Extension freeze
+      - Visibility issue
+      - Layout change***
+    common_faq: |-
+      - The customer's issue is the email status from the Chrome extension is not showing from her end.
+      - Sales Navigator is slow when I'm using the Apollo Chrome extension or when I have it enabled.
+- Extension > Chrome Extension > Settings:
+  - what_it_cover: |-
+      - Permissions
+      - Enablement
+      - Manage exclusions
+      - Uninstall
+      - Reinstall
+    common_faq: |-
+      - I want to uninstall the extension
+      - Enable extension for Gmail tracking
+- Extension > Chrome Extension > Filters:
+  - what_it_cover: '- LinkedIn filters'
+    common_faq: |-
+      - The filters don't save when using the extension
+      - Customer is looking for a way to filter potential clients based on their frequency of using LinkedIn
+- Data Quality > Data Quality/Coverage:
+  - what_it_cover: |-
+      Any concern for bad or incorrect data in our database as well as the data scope of our database
+- Invalid/Spam > Invalid/Spam:
+  - what_it_cover: |-
+      - When unrelated messages are sent to the Apollo inbox
+      - Examples:
+      Marketing emails
+      Scams (Phishing Scams, Clickbait ads, SEO Spam, Loan & Debt Relief Scams, fake job offers, etc.)
+      Messages meant for other companies' Support teams
+- Billing > Honor Plan:
+  - common_faq: Could you honor this cheaper pricing variant for me?
+- Billing > Downgrade Seats:
+  - common_faq: How can I downgrade my seats?
+- Billing > Downgrade Credits:
+  - common_faq: |-
+      How do I make sure my credit add-ons don't carry over the next cycle?
+      I need to decrease the email credits per month
+- Billing > Downgrade Plan Edition:
+  - common_faq: How do I downgrade to a cheaper plan?
+- Billing > Change Billing Cycle:
+  - common_faq: |-
+      Can I change my billing cycle in to a different date?
+      I want to change my billing cycle from annual to monthly, can I do that?
+- Billing > Payment > Overview:
+  - what_it_cover: |-
+      - General questions
+      - Other Payment Options
+    common_faq: |-
+      Do you accept other payment options aside from credit cards?
+      Can I use my debit card for payment?
+      I want to see my contract
+    additional_note: Questions about the availability of other payment options
+- Billing > Payment > Actions:
+  - what_it_cover: '- Update Card, Remove Card'
+    common_faq: |-
+      How can I remove my card? I don't have the option to do so.
+      How can I update my credit card?
+- Billing > Payment > Errors:
+  - what_it_cover: |-
+      - Card Error
+      - Payment Processing Issue
+      - Payment Incorrect
+      - Unrecognized Charge
+      - Overdue Payment
+      - Dispute
+    common_faq: "Why is my card declined?\nI am seeing extra charges in my subscription. Can you please check this?\nWhy am I seeing an overdue amount in my account?\nWhy can't I update my card? \nWhy am I being asked to verify my payment further?\nWhy can't I access my Apollo account (closed due to dispute on Activity log)"
+    additional_note: Card getting declined, generic_decline, insufficient funds, zip code error
+- Billing > Refund:
+  - common_faq: I didn't use Apollo for last month, can you refund me, please?
+- Billing > Invoice > Actions:
+  - what_it_cover: |-
+      - Download invoice
+      - Void Invoice
+    common_faq: |-
+      How can I download my invoice/receipts?
+      Can I update my invoice information?
+- Billing > Grant Temporary Credits:
+  - common_faq: |-
+      I wasn't able to use my credits, please give me more as they don't roll-over.
+      Please give me reward credits for the time I waited for my payment to be processed.
+- Billing > Resume Previous Plan:
+  - common_faq: (not really a question, but this is for when we need to reinstate the plan)
+    additional_note: |-
+      For reinstating previous plans (within an active billing cycle) that have been downgraded to the Free plan
+- Billing > Reprieve:
+  - common_faq: |-
+      Can you give me access while I wait for the negotiation to be closed?
+      Can I have access to Apollo while the payment is being processed/while the contract is being signed?
+- Billing > Promotions > Overview:
+  - what_it_cover: |-
+      - Engagement Promotion
+      - 30% ZoomInfo Promotion
+      - Partnership programs
+    common_faq: "How can I redeem of the 30% zoominfo promo?\nDo you have other discounts available? \nDo you have affiliate link?"
+    additional_note: |-
+      For when offering the promotion to motivate using the Sales Engagement tools (sequences and emailing within Apollo)
+- Billing > ToS Blockages > Errors:
+  - what_it_cover: |-
+      - Access Denied (Permanent)
+      - Blockage (Temporary)
+      - Free Gmail Blockage
+    common_faq: |-
+      Why can't I access my Apollo account?
+      I'm getting Access Denied, wth is happening?
+    additional_note: |-
+      About issues accessing the account due to permanent and temporary bane.g. Blockages Code 4, Code 1, Code 5
+- Billing > ARRs > teams_above_15k:
+  - what_it_cover: '*checking if these can be automatically applied by Intercom instead'
+- Tools & automations > Workflows > Overview:
+  - what_it_cover: General information about workflows
+- Tools & automations > Workflows > Settings:
+  - what_it_cover: "Basic info \n- Name\n- Description\n- Folder\n\nCustomization\n- Enrollment approval\n- Limit records processed\n- Custom table layout\n- Sort enrollment\n- Sort order\n- Enrollment notifications"
+- Tools & automations > Workflows > Actions:
+  - what_it_cover: "Workflows\n- Create from scratch \n- Start with a template \n- Clone from existing workflow\n- Rules (true/false branch, multi-split branch, delay, exit)\n- Actions (manage sequences, manage lists, manage deals, assign manual tasks, update contact/account, send notifications)\n- Archive\n- Edit\n- Activate/Deactivate\n\nOutbound assistant\n\nPlaybooks (ending soon)\n- Folder\n- Tag"
+- Tools & automations > Workflows > Filters:
+  - what_it_cover: "Workflows\n- Search workflows\n- Workflow status\n- Owner\n- Folders\n\nPlaybooks (ending soon)\n- Search playbooks\n- Starred\n- Owned by \n- Tags\n- State\n- Folders"
+- Tools & automations > Workflows > Limitations:
+  - what_it_cover: '- Availability based on the plan'
+- Tools & automations > Workflows > Errors:
+  - what_it_cover: |-
+      - Reason: request_failed
+
+      - Reason: Oops! Looks like somebody (maybe you!) on your team just prospected from Apollo. We go to great lengths to make sure your team doesn't create duplicates and get charged twice. To do this, we need just a tiny bit more time (no longer than 5 minutes) to process the previous request! Please try again in a little while!
+
+      - Cannot find contact
+- Tools & automations > Workflows > Performance:
+  - what_it_cover: '- Workflows not loading'
+- Tools & automations > Tasks > Filters:
+  - what_it_cover: -Anything related to the filter pane.
+- Tools & automations > Tasks > Actions:
+  - what_it_cover: |-
+      Covers actions executed through buttons on the Tasks page
+      - Execute Tasks
+      -Skip
+      - Reschedule
+      - Reassign
+      - Set Priority
+      - Mark as complete/Complete Tasks
+      - Export
+      - Email (If task is email)
+      - Schedule
+      - Delivery Schedule
+      -Sorting
+- Tools & automations > Tasks > Overview:
+  - what_it_cover: General information about tasks
+- Tools & automations > Tasks > Limitations:
+  - what_it_cover: |-
+      -Linkedin task limitation
+      -"Execute" button limitation with call tasks
+      -phone call task automation limitation
+- Tools & automations > Tasks > Errors:
+  - what_it_cover: LinkedIn tasks error codes
+- Tools & automations > Tasks > Settings:
+  - what_it_cover: |-
+      Notifications
+      - Daily task reminders
+- Tools & automations > Tasks > Performance:
+  - what_it_cover: |-
+      -Any issues without error codes
+      -Missing buttons
+      -Tasks not being created automatically
+- Tools & automations > Home Layout > Actions:
+  - what_it_cover: |-
+      Editing the existing layout and creating a new layout. This includes:
+      - Adding widgets
+      - Deleting widgets
+      - Moving widgets
+      - Resizing widgets
+
+      Switching layouts
+      Duplicating layouts
+- Tools & automations > Home Layout > Performance:
+  - what_it_cover: Any issues with the actions stated above.
+- Tools & automations > Home Widgets > Actions:
+  - what_it_cover: |-
+      Actions for widgets already in the layout. This includes:
+      - Clicking any button within the widget (View Tasks, Link Mailbox, etc.)
+      -View Report
+      -Download CSV
+- Tools & automations > Home Widgets > Filters:
+  - what_it_cover: Time range filter in widget reports
+- Tools & automations > Home Widgets > Performance:
+  - what_it_cover: Any issues with the data in widgets and actions
+- Tools & automations > Analytics Landing > Overview:
+  - what_it_cover: |-
+      General questions about Analytics. How it works, what can be done with it, how it applies on a day-to-day of a sales rep/sales manager, etc.
+- Tools & automations > Analytics Landing > Actions:
+  - what_it_cover: |-
+      Dashboard
+      - Landing
+      - View dashboard (prebuilt/custom)
+      - Clone dashboards
+      - Favorites
+      - Delete dashboard
+      - Edit dashboard
+      - Switch to old layout
+      Reports
+      - View Report (prebuilt/custom)
+      - Clone Report
+      - Add to Favorites
+      - Add to Dashboards
+      - Delete Report
+      - Edit Report
+      - Switch to old layout
+      Goals
+       Selection toggle
+      - View Goal
+      - Move to
+      - Archive
+      Goal ellipsis
+      - Edit goal
+      - Clone goal
+      - Move goal to folder
+      - Archive
+      - Pause/Activate Goal
+      Cockpit
+      - View
+      - Actions (New, Edit, Clone, Assign as default, Delete)
+- Tools & automations > Analytics Landing > Filters:
+  - what_it_cover: |-
+      Dashboard
+      - Sort By/Freeze column
+      - Hide/Show filters
+      - Filter options (Starred, owner, folders, created by Apollo)
+      - Search box
+      Reports
+      - Sort By/Freeze column
+      - Hide/Show filters
+      - Filter options (Starred, owner, folders, created by Apollo)
+      - Search box
+      Goals
+      - Sort By
+      - Hide/Show filters
+      - Filter options (Goal status, owner, assigned to, etc.)
+      - Search box
+      - Table column settings
+      Cockpit
+      - Layouts
+- Tools & automations > Analytics Drill Down > Actions:
+  - what_it_cover: |-
+      Dashboard
+      - Copy link
+      - Export to CSV
+      - Duplicate dashboard
+      - Share / Share modal options
+      - Delete dashboard
+      Report
+      - Copy link
+      - Export to CSV
+      - Duplicate Report
+      - Share / Share modal options
+      - Delete Report
+      Goals Page
+      - Takes you to dashboard page
+      Cockpit
+      - Takes you to other pages (Reports, People, Companies, Tasks, etc.)
+- Tools & automations > Analytics Drill Down > Filters:
+  - what_it_cover: |-
+      Dashboards
+      - Select timeframe / Clear date range
+      - Add Filter
+      Reports
+      - Select timeframe / Clear date range
+      - Add Filter
+      - Chart/Table inclusions
+      - Sort ascending/descending
+      Goals
+      - Takes you to Dashboard
+- Tools & automations > Analytics Create > Actions:
+  - what_it_cover: |-
+      Dashboard
+      - Create new report
+      - Existing or template
+      - Rename
+      - Description
+      - Delete Report
+      - Save dashboard
+      Reports
+      - Create new report
+      - Rename
+      - Description
+      - Metrics
+      - Group By
+      - Save Report
+      Goals
+      - Create from scratch
+      - Goal details
+      - Goal Setup
+      - Start with a template (and options)
+      Cockpit
+      - Rename
+      - Visibility
+      - Views
+- Tools & automations > Analytics Create > Filters:
+  - what_it_cover: |-
+      Goals
+      - Goal setup metric
+      - Goal setup filters
+- Win & close > Meetings > Overview:
+  - what_it_cover: General info about meetings
+    common_faq: How do I set up Meetings in Apollo?
+- Win & close > Meetings > Settings:
+  - what_it_cover: |-
+      Availability & tools
+      - Connect calendar
+      - Disconnect calendar
+      - Personal Apollo meetings link
+      - Connect app
+      - Disconnect app
+      - Custom link
+      - Upload logo
+      - Set default availability
+      - Before/after events time
+      - Minimum schedule notice
+    common_faq: |-
+      Why can't I connect my calendar?
+      What should I do if my calendar events are not syncing?
+      Why is my calendar disconnecting automatically?
+      How do I fix broken or expired meeting links?
+      How do I fix time zone issues in my availability settings?
+      Why is my minimum notice setting not saving correctly?
+- Win & close > Meetings > Actions:
+  - what_it_cover: "Create\n- Single host\n- Multi-host\n- Inbound router setup\n- Intake forms\n\nScheduling pages\n- User\n- Your hub\n- Team's hub\n- Scheduling pages - Enable\n- Scheduling pages - Preview\n- Scheduling pages - Copy link\n- Scheduling pages - Edit \n- Scheduling pages - Clone\n- Scheduling pages - Delete"
+    common_faq: |-
+      Why is the multi-host meeting option not available?
+      What should I do if intake forms are not saving or displaying correctly?
+      How do I set up a multi-host meeting?
+      How do I upload my company logo to my meeting page?
+- Win & close > Meetings > Filters:
+  - what_it_cover: "All meetings\n- Date\n- Search for event\n- Past \n- Reserved\n- Upcoming\n- Sort by\n\nScheduling pages\n- Filter by \n- Search scheduling pages"
+    common_faq: |-
+      How do I filter meetings to show only past meetings?
+      How do I view only reserved meetings?
+      How do I filter upcoming meetings?
+      Why are my upcoming meetings not displaying?
+      Why is sorting not working properly in my meetings list?
+      Why does the date filter reset when I switch views?
+- Win & close > Meetings > Limitations:
+  - what_it_cover: '- Number of calendars per user (based on plan)'
+    common_faq: Can I request to increase the number of calendars per user in my existing plan?
+- Win & close > Meetings > Errors:
+  - what_it_cover: |-
+      - You can link your email account that is backed by Google / Microsoft or Microsoft EWS accounts
+
+      - Meeting creation failed due to error: validating slot due to buffer time. Kindly use another
+
+      - Meeting creation failed due to error: chosen slot is busy.
+
+      - Meeting type settings is invalid
+    common_faq: |-
+      How do I fix a failed meeting creation due to buffer time settings?
+      How do I check and fix my meeting type settings?
+    additional_note: |-
+      Taxonomy reference: https://apolloio.slack.com/archives/C06T3MJLQPJ/p1721895023965249
+- Win & close > Conversations > Overview:
+  - what_it_cover: |-
+      General info about conversations
+
+      Training videos**
+- Win & close > Conversations > Settings:
+  - what_it_cover: "Recording settings\n- Enable conferencing app\n- Disable conferencing app\n- Record via Zoom Cloud\n- Auto-record meetings\n- Exclude domains from recording\n- Custom name for your recorder\n- Enable private conversations\n- Revoke access to all shared recording links\n\nRecording consent\n- Recording announcement\n- Announcement time\n- Announcement message\n- Email notifications\n- Internal participants\n- External participants\n- Notification message\n\nRecorded users\n- Setting up new team members\n- Select users to record\n\nTrackers\n- Add tracker\n\nScorecards\n- Create scorecard\n\nField mappings\n- Conversation object \n- Opportunity field\n- Populate\n\nNotifications\n- New meeting summary\n- Comments\n- Mentions\n- Sharing"
+    common_faq: |-
+      How do I enable auto-recording for all meetings?
+      How do I configure recording consent settings for external participants?
+      How do I select specific users to be recorded?
+      Why are private conversations still being recorded?
+      Why aren’t my meetings being auto-recorded?
+- Win & close > Conversations > Actions:
+  - what_it_cover: "Upcoming meetings\n- Enable recording\n- Disable recording\n- Set visibility to private\n- View all upcoming meetings\n\nRecord now\n\nAsk Apollo\n\nStats\n- Team analytics\n- Activity\n- Interaction\n\nRecorded meetings\n- Add to playlist \n- Summary\n- Transcript\n- Trackers\n- Comments\n- Ask AI\n- Listen to\n- Clips\n- Manage video\n- Share\n- Add tags\n- Participants\n- Associated deals \n- Request score\n- Select scorecard template\n- Submit scorecard \n- Edit conversation name\n- Download recording\n\nPlaylists\n- Create playlist\n- Share playlist"
+    common_faq: |-
+      How do I view team analytics for recorded meetings?
+      How do I access and review the transcript of a recorded meeting?
+      How do I use "Ask AI" to analyze a recorded meeting?
+      How do I add tags to a recorded meeting?
+      Why is the "Record Now" feature not working?
+      Why is the recording option disabled for some meetings?
+- Win & close > Conversations > Filters:
+  - what_it_cover: "Recorded meetings \n- Search \n- User\n- Contact\n- Date\n- Duration\n- Company\n- Trackers\n- Tags\n- Sort by \n- Fields configuration\n\nUpcoming meetings\n- Filter\n\nPlaylists\n- Search playlists"
+    common_faq: |-
+      How do I filter recorded meetings by user?
+      How do I rename or modify an existing playlist?
+      How do I search for upcoming meetings by host or participant?
+- Win & close > Conversations > Limitations:
+  - what_it_cover: |-
+      - Option to transcribe conversation recordings and get summaries in other languages
+    common_faq: |-
+      Why is my transcript missing parts of the conversation?
+      How do I generate summaries in different languages?
+      Can I I enable automatic transcription for all meetings?
+- Win & close > Conversations > Errors:
+  - what_it_cover: |-
+      - Bot not joining
+      - Meeting not recorded
+    common_faq: |-
+      Why is the bot not joining my meeting?
+      How do I manually invite the bot to a meeting?
+      Why was my meeting not recorded?
+      How do I ensure the bot joins meetings automatically?
+- Win & close > Conversations > Performance:
+  - what_it_cover: '- Failed to fetch results: Internal Server Error'
+    common_faq: |-
+      How do I fix an "Internal Server Error" when searching for meetings?
+      How do I report a system error affecting meeting recordings?
+- Win & Close > Deals > Overview:
+  - what_it_cover: General info about deals
+- Win & Close > Deals > Settings:
+  - what_it_cover: "Table column settings\n- Hidden columns\n- Visible columns \n\nDeal stages\n- Show deals related functions in Apollo\n- Apollo Deals Stages\n\nDeal roles\n- Create, edit, and map deal roles\n\nDeal fields\n- Basic information\n- Deal activity\n- Deal revenue\n- Deal forecast\n- Custom fields"
+    common_faq: |-
+      Can I customize the order of table columns in Deals?
+      Can I customize the deal forecast criteria?
+- Win & Close > Deals > Actions:
+  - what_it_cover: "Selection \n- Select the number of deals\n- Select this page\n- Select all deals\n\nTable view \n- View contacts with role\n- View accounts \n- Export\n- Push to Salesforce\n- Stages\n\nMy deal tasks\n- Status\n- New task \n- Sort by\n\nBoard view\n- Pipeline\n- Stages\n\nSaved Searches\n- Find the saved search\n- Pinned \n- Private\n- Public\n\nCreate Deal \n\nAdd/email/call contact\n\nEdit deal \n\nImport CSV"
+    common_faq: |-
+      Why can’t I create a new deal task?
+      Why can’t I create a new deal?
+      Why is my deal not saving after adding details?
+      Can I bulk select deals?
+- Win & Close > Deals > Filters:
+  - what_it_cover: |-
+      Search
+      - Search deals
+      - Company
+      - Owner
+      - Stage
+      - Closed date
+      - Created date
+      - Stage updated at
+      - New step updated at
+      - Amount
+      - Custom fields
+      - Apollo system fields
+      - Account lists
+      - Location
+      - # Employees
+      - Industry & keywords
+      - Funding
+      - Technologies
+      - Workflows
+
+      Saved Searches
+      - Sort by
+    common_faq: |-
+      Why can’t I filter deals by specific owner or company?
+      Why are my custom search filters not saving properly?
+    additional_note: 'Reference: https://apolloio.slack.com/archives/C06T3MJLQPJ/p1731387586999379'
+- Win & Close > Deals > Errors:
+  - what_it_cover: '- Your team admin has disabled pushing opportunity to CRM'
+    common_faq: How can I enable pushing opportunity to CRM?
+- Win & Close > Deals > Performance:
+  - what_it_cover: |-
+      - Deals selection bulk limit
+      - Deal information not loading
+    common_faq: Why can't I delete more than 1,000 deals at once?
+    additional_note: 'Reference: https://apolloio.slack.com/archives/C055RNHAK5Y/p1735295594283269'
+- Sub Accounts > Sub Accounts > Overview:
+  - common_faq: '- How does sub accounts work?'
+- Sub Accounts > Sub Accounts > Actions:
+  - what_it_cover: |-
+      - Block Domain
+      - Block Prospecting
+      - Add
+      - Log In As
+      - Manage Owners
+      - Features/Credits
+      - Delete Sub Account
+    common_faq: '- How can i log in as my sub account?'
+- Sub Accounts > Sub Accounts > Filters:
+  - what_it_cover: |-
+      - Filters
+      - Sort
+      - Search bar
+- Sub Accounts > Sub Accounts > Limitation:
+  - what_it_cover: Any request that the system cannot do
+- Sub Accounts > Sub Accounts > Performance:
+  - what_it_cover: Confirmed bugs for subaccounts
+- Prospect & Enrich > People Search > Filters:
+  - what_it_cover: -Anything related to the filter pane.
+    common_faq: |-
+      -Is there a filter to filter out contacts in "not interested" stage?
+      -For the Job Change filter in the search page, contacts who have changed jobs, how recent was their job change?
+      -the company list in the search people filter, if use under search>company will it also exclude the company in the list? or just the people?
+- Prospect & Enrich > People Search > Actions:
+  - what_it_cover: |-
+      -Covers actions executed through buttons on the Search page
+      Save
+      Email
+      Sequence
+      Add to List
+      Export
+      Enrich
+      Powerups
+      Push to CRM/ATS
+      View Companies
+      Merge Duplicates
+      Create Task
+      Set Stage
+      Remove From Lists
+      Set Custom Field
+      Opt out of calls
+      Delete
+      Save as new search
+      Create workflow
+      Sort (Relevance)
+      Import
+      Access Email
+      Access Mobile
+      Enrich Job Change
+      Reject Job Change Enrichment
+      Run AI prompt (including waterfall)
+      -Selecting people records
+      -Change layouts (Default view button)
+      -Create Saved Searches
+      -Contact Page
+
+      Notifications
+      - Completed data requests
+      - Data requests daily digest
+    common_faq: |-
+      -How can I see which companies the contacts in my list are associated with? (View Companies)
+      -Why is the push to HubSpot button greyed out in the search page?
+      -The user exported 606, and on the CSV, only 256 contacts display
+      -The customer attempted to export a specific list of contacts but ended up receiving a different set of contacts that they did not wish to export. As a result, the user is requesting compensation for this issue.
+- Prospect & Enrich > People Search > Overview:
+  - what_it_cover: -General information about People Search and the waterfall feature
+    common_faq: |-
+      -What is waterfall?
+      -Request to be included in the waterfall Beta feature
+      -I have this customer who reported that the width adjustment behavior of columns under the search page doesn't seem to work as expected. For instance, when they attempt to adjust the end of a column, it is the width of the next one that gets adjusted.
+- Prospect & Enrich > People Search > Settings:
+  - what_it_cover: |-
+      -Search Settings
+      Fields
+      Applied Filters
+    common_faq: "-add the company links column in the Search - People page\n- Cx cannot see the Phone number column on their saved search, but it's added on their table layout. \n-Could you check why the column settings cannot be changed for this team space?"
+- Prospect & Enrich > People Search > Limitations:
+  - what_it_cover: People Search Limitations
+    common_faq: |-
+      -The location radius filter only works for net new contacts
+      -How to return only x number of contacts on a specific company in the search results
+      -I can't save/export 10k net new contacts at a time.
+      -Getting the error "You have exceeded the limit of including and excluding 100 job titles in your search. Edit your filters by removing job titles and/or revising your personas."
+      -I can only see 3 pages on the search page.
+      -Can I increase the number of records in one page from 25 to 100?
+      - Getting the error ""Failed to fetch facets: Filter criteria you are trying to exceeded our system limitation." (Our query size can only take up to 1,000,000)" in my search.
+      - Cx can't export/import contacts due to limits
+      -Phone status/Confidence filter not working on net new contacts
+      -Can't see the Owner filter because they only have 1 user
+- Prospect & Enrich > People Search > Errors:
+  - what_it_cover: Errors in the People Search page
+    common_faq: |-
+      -“Failed to fetch results: Internal Server Error” when trying to access the People Search page
+      --The user got an error "Your current plan is limited to selecting up to 10000 new records while trying to do a job change of 8557 records" from the search page
+      - Waterfall credit errors
+- Prospect & Enrich > People Search > Performance:
+  - what_it_cover: Performance issues on the People Search page
+    common_faq: "- The same record can be found in both the Saved and Net New tabs \n-The records on the people page dropped dramatically\n-The Total count in the search doesn't seem to match the saved and NetNew count"
+- Prospect & Enrich > Companies Search > Filters:
+  - what_it_cover: -Anything related to the filter pane.
+    common_faq: |-
+      -When using the Company filter, selecting "Is not any of" (e.g., Epic Games) while "Include past company" is enabled causes "Epic Games" to auto-populate in "Is any of," resulting in 0.
+      -When using the website visitor filter then add the webpage URL and select anything, it doesn't give any result.
+      -how do i add an 'or' on my accounts filter
+      -he customer wanted to know HOW to look for private companies in Edmonton, Red Deer, and Manitoba with more than 200 to 1000 employees.
+- Prospect & Enrich > Companies Search > Actions:
+  - what_it_cover: |-
+      -Covers actions executed through buttons on the Search page
+      Save
+      Find People
+      Add to List
+      Export
+      Edit
+      Powerups
+      Push to CRM/ATS
+      Prospect on LinkedIn
+      Save as new search
+      Create workflow
+      Sort (Relevance)
+      Import
+      -Selecting company records
+      -Change layouts (Default view button)
+      -Create Saved Searches
+      -Company Page
+
+      Notifications
+      - Completed data requests
+      - Data requests daily digest
+    common_faq: |-
+      -If the cx imports a CSV file of accounts in Apollo, what search does he need to do to populate it with emails? (Find People)
+      -Can we convert a companies list to a peoples list?
+      -I have a customer who is claiming that there's a glitch. He added around Companies to his list and the results are not increasing. Originally they had 20k Companies on this list and got around 17k results.
+- Prospect & Enrich > Companies Search > Overview:
+  - what_it_cover: -General information about Company Search
+    common_faq: -There are duplicate companies on the company search page
+- Prospect & Enrich > Companies Search > Settings:
+  - what_it_cover: |-
+      -Search Settings
+      Fields
+      Applied Filters
+    common_faq: |-
+      -The Score column on the accounts page is not showing the Score field however, when you click on the Table Column Settings, it shows that the Score should be visible.
+- Prospect & Enrich > Companies Search > Limitations:
+  - what_it_cover: Company search page limitations
+    common_faq: "- \"Failed to fetch results: Number of accounts you are trying to exclude exceeded our system limitation 9000. Please try a different filter\" error when doing search\n-“You have exceeded the maximum # of companies to add. Your limit is 300000.”\n-The cx can only access 3 pages on the company search page.\n-The customer would want to see the company street address on the search page. \n-Can you increase the limit of new visitors per day for website visitor tracking?"
+- Prospect & Enrich > Companies Search > Errors:
+  - what_it_cover: Errors experienced in the Companies search page
+    common_faq: |-
+      - Experiencing "Failed to Fetch" error on the company search page intermittently
+      -"The filters you selected created a query that's too large. Try using fewer or simpler filters to continue." error when the cx only applied two filters
+- Prospect & Enrich > Companies Search > Performance:
+  - what_it_cover: Performance issues on the Companies Search page
+    common_faq: "- The same record can be found in both the Saved and Net New tabs \n-The records on the people page dropped dramatically\n-The Total count in the search doesn't seem to match the saved and NetNew count\n-The user is trying to view the account engagement (slow) field in the search company page, but they all show as empty. Until he clicks into the account, then, when he migrates back to the company search view, it appears for that account only."
+- Prospect & Enrich > Lists Search > Actions:
+  - what_it_cover: |-
+      -Create People Lists
+      -Create Company Lists
+      -Show (People or Companies) list
+      -List Selection
+      -Add to Sequence
+      -Delete
+      -Sorting
+      -Search Lists
+      -Collapse view
+      -Sorting
+      -Add a row
+      -Add records
+      Remove from Lists
+    common_faq: |-
+      - A user is asking if after a list it's saved, if we can edit it after it's saved, or if they will need to create a whole new list to apply the changes.
+      - Can the customer create two list from one list?
+- Prospect & Enrich > Lists Search > Overview:
+  - what_it_cover: -General information about Lists
+    common_faq: |-
+      - If an account admin deactivates some users of the account and removes their paid seats, will they still be able to keep the saved lists from those deactivated users
+      - Do we have a way to check the time/date or which contact was recently added to a contact list?
+- Prospect & Enrich > Lists Search > Errors:
+  - what_it_cover: Errors Related to Lists
+    common_faq: |-
+      -The user is not able to add contacts to a list. Getting an error message ""you do not have permission to add".
+- Prospect & Enrich > Lists Search > Limitations:
+  - what_it_cover: Limitations related to Lists
+    common_faq: |-
+      -How to private my lists
+      -Customer mistakenly deleted his Contact List and wants to undo the deletion.
+- Prospect & Enrich > Lists Search > Performance:
+  - what_it_cover: Performance issues related to Lists
+    common_faq: |-
+      -Mismatched number of records indicated on the list vs when opening the list
+      - Missing list tabs (All, My, and Team tabs)
+      -People lists missing.
+- Prospect & Enrich > Data health center > Actions:
+  - what_it_cover: |-
+      Covers actions executed through buttons on the Data Health Center page:
+      - View Scheduled Jobs
+      - Automate Enrichment
+      - View contacts
+      - Schedule
+      - Connect CRM
+    common_faq: |-
+      -Is it possible to automate enrichment?
+      -Why a contact was not part of the automated enrichment
+      -I have this account who have a scheduled enrichment for CRM fields. However, the enrichment has not been carried out even though they have it created a while ago. I saw that there is a red field within the creation workflow, but it is talking about Retail locations, which the team has not mapped or selected. Any idea what might be going on here?
+- Prospect & Enrich > Data health center > Overview:
+  - what_it_cover: General information about the Data Health Center
+    common_faq: |-
+      -does the data health center help user match the job titles of contacts in their CRM records? Or its just like graphs only?
+- Prospect & Enrich > Data health center > Limitations:
+  - what_it_cover: Limitations of the Data Health Center feature
+    common_faq: |-
+      -Include both the Contact and Account stages as a filter for Scheduled Enrichment.
+      -How to edit the layout of the Data Health Center page?
+- Prospect & Enrich > Data health center > Performance:
+  - what_it_cover: Perfomrance issues related to the Data Health Center
+    common_faq: '- Data Health Center is empty'
+- Prospect & Enrich > CRM enrichment > Filters:
+  - what_it_cover: Anything related to the filter panel.
+    common_faq: |-
+      - On the enrichment tab, the customer filters by list, nothing shows up. However, when they pick a contact from the List and search for the contact, it shows up under the enrichment page.
+      -The cx has data in Hubspot that they want to enrich. They are looking for a filter in Apollo to just show the data that has the custom field MRR > 0 and then enrich them.
+      -Cx would like to know if they can enrich company founding date through CRM enrichment.
+- Prospect & Enrich > CRM enrichment > Actions:
+  - what_it_cover: |-
+      -Dismiss
+      -Enrich Records
+      -Expand view
+      -Selection of records
+      -Enrich
+      -Change layout view
+    common_faq: |-
+      -The cx bulk enriched contacts and noticed that the accounts associated to the contact in SFDC updated the address. Is this expected behavior?
+      -Apollo is not enriching my data when enriched through the CRM Enrichment page
+- Prospect & Enrich > CRM enrichment > Overview:
+  - what_it_cover: General information about CRM Enrichment
+    common_faq: "-Customer is on a Basic plan and trying to access the enrichment CRM feature. When clicking the button \"try it now\", nothing happens.\n-How are user's charged for CRM Enrichment? \n-Using the CRM enrichment, it will enrich data to their CRM based on what Apollo has? It is not vice versa, right?\n-Are data being enriched through the CRM data enrichment page appearing in the search page or just the data enrichment page?"
+- Prospect & Enrich > CRM enrichment > Limitations:
+  - what_it_cover: Limitations on the CRM Enrichment feature
+    common_faq: |-
+      - I have Pipedrive. Can I use CRM enrichment?
+      - Is there a way to filter the leads to exclude them from being enriched from the CRM Enrichment page?
+      - The user doesn't have the option to map the contact's email and I don't see it either, they're trying to CRM enrich emails
+      - The customer wants a filter to exclude leads from being enriched/appearing under the CRM Enrichment feature.
+- Prospect & Enrich > CRM enrichment > Performance:
+  - what_it_cover: Performance Issues related to the CRM Enrichment feature
+    common_faq: |-
+      -A contact in our CRM has different data in Apollo but does not show in the CRM Enrichment page
+      -CRM enrichment tab is landing to a crash page.
+- Prospect & Enrich > CSV enrichment > Actions:
+  - what_it_cover: |-
+      -Select CSV
+      -Import CSV
+      -Mapping columns
+      -Reupload CSV
+      -Toggling on email and mobile enrichment
+      -Sorting
+      -Download CSV
+      -View Report
+      -Back to listing
+    common_faq: |-
+      -Customer is reporting that the CSV enrichment file only contains 38 email addresses but the report says 108 emails.
+      -The customer is on a trial Org plan; they claim that " when trying to enrich with only email address for company it burned my credits without actually enriching any data."
+      -The user enriched their CSV and found 589 of 980 duplicates. The user checked and said they only found fewer duplicates.
+- Prospect & Enrich > CSV enrichment > Overview:
+  - what_it_cover: General information about the CSV Enrichment
+    common_faq: |-
+      -When doing the CSV enrichment, do they still need to include all these info in the CSV to match the record: First & Last name, company & company website?
+- Prospect & Enrich > CSV enrichment > Settings:
+  - what_it_cover: Anything related to the contact/account CSV enrichment settings
+    common_faq: |-
+      -The customer added the Primary intent, Primary intent score, keywords in the CSV export settings for Account but it did not export the fields. It's not shown on the CSV file.
+- Prospect & Enrich > CSV enrichment > Errors:
+  - what_it_cover: Any errors related to CSV Enrichment
+    common_faq: |-
+      -The customer is trying to do CSV Enrichment of companies by uploading a CSV of 4670 records. The customer gets a 403 forbidden error with the error as "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block, including submitting a certain word or phrase, an SQL command or malformed data."
+      -While uploading the CSV file on CSV enrichment, we encountered with the following error :
+      "Your CSV is misformatted. Illegal quoting in Line 1:"
+- Prospect & Enrich > CSV enrichment > Limitations:
+  - what_it_cover: Limitations related to CSV enrichment
+    common_faq: |-
+      -Can I delete past CSV enrichments?
+      -Why are my contacts not saving when doing CSV enrichment?
+      -Unable to enrich the CSV as the customer is getting an error that the allowed row is 1k even though the CSV file only has 998 rows.
+      -Got an error for the limit for rows when doing CSV enrichment. The error shows that they have an 8000 limit since they are on a custom/org plan.
+      -Email field is not showing up under the Contact CSV enrichment settings.
+- Prospect & Enrich > CSV enrichment > Performance:
+  - what_it_cover: Performance issues related to CSV enrichment
+    common_faq: -My CSV enrichment is stuck.
+- Prospect & Enrich > Job change alerts > Filters:
+  - what_it_cover: -Anything related to the filter pane in the job change tab under Data Enrichment
+    common_faq: -No results when filtering by Lists on the job change alerts page.
+- Prospect & Enrich > Job change alerts > Actions:
+  - what_it_cover: |-
+      Applies for both "All" and History" tabs:
+      -Job Change Actions
+      -Lists (Add to lists, Remove From Lists)
+      -Export
+      -Selection of records
+    common_faq: |-
+      -How do you export past records that have gone through a job change?
+      -When using Job Change alerts from the job change alerts page, they only have the option to export data. They said that they used to have the option to update or create a new contact - an option they still have available from the prospect searcher page.
+      -By exporting job change alerts into a csv, would it effectively be the same as an export csv from Apollo, but with those specific contacts?
+- Prospect & Enrich > Job change alerts > Overviews:
+  - what_it_cover: -General information about the Job Change Alerts
+    common_faq: |-
+      -This customer is on Professional Plan and as per their subscription I can understand they don’t have access to Job Changes Alerts. But as per the customer: "We previously had access to the Job Change Alert functionality (yesterday 11/13), but as of today (11/14, it’s showing that we need to upgrade to access it. Job Change Alerts are exclusive to Custom plans."
+- Prospect & Enrich > Job change alerts > Errors:
+  - what_it_cover: Any errors related to the job changes
+    common_faq: |-
+      -The customer receives a banner stating "Job change found". However, when clicking on it, the banner disappears, and they receive the message "No valid job change found."
+      -Customer is unable to accept job change. He's getting the error message "You are not allowed to update contacts from job change events". He's currently an Admin and no restrictions in the Admin permission profile.
+- Prospect & Enrich > Job change alerts > Limitations:
+  - what_it_cover: Limitations on the job change alerts feature
+    common_faq: -How to filter by enrichment date from the Job change alerts > History tab?
+- Prospect & Enrich > Job change alerts > Performance:
+  - what_it_cover: Performance issues related to job change alerts
+    common_faq: |-
+      -The user is seeing different number of contacts with Job Changes in Data Health Center and Search > People.
+      -I know someone that has changed jobs but is missing in the job change alerts section.
+      -This contact is showing that his current role is at Madison Logic but Apollo shows he is stil working at Aetion (previous company) and no job change alerts seemed to have been created despite current role showing a new company
+- Cancellation > Plan Cancellation > -:
+  - what_it_cover: Information about how cancellations of plans work
+    common_faq: How can I cancel my account?
+- Cancellation > Delete Free Account > -:
+  - what_it_cover: Customers wanting to delete their free Apollo account
+    common_faq: How can I delete my Apollo account?
+- Cancellation > Pause Subscription > -:
+  - common_faq: I won't be using Apollo for a while. Is it possible to pause my subscription?
+- Account Settings > Account Info > Overview:
+  - what_it_cover: |-
+      - General questions
+      - Team & Workspace setup
+    common_faq: '- What is a Custom User Field for?'
+- Account Settings > Account Info > Settings:
+  - what_it_cover: |-
+      - First name
+      - Last name
+      - Title
+      - Change email
+      - Change password
+      - Assign Permission profile
+      - Assign Territories
+      - Custom credit limits (Email credit, Mobile credit, Export credit)
+      - CRM credentials
+      - Custom User Field
+      - Company's name
+      Chrome extension
+      - Chrome extension settings
+    common_faq: |-
+      - Where/how can I change my account's name/title/email/password/permission profile?
+      - Why is the Territories dropdown grayed out?
+      - Why do I have a limit of x credit limits when our plan has x credit limits?
+      - Where/how can I remove the credit limit for myself?
+      - I can't assign a profile to myself, it's grayed out.
+      - We have integrated our HubSpot, but none of the contacts that I own in Apollo gets assigned to me in HubSpot.
+      - How do I change the field type for a custom user field that I created?
+      - Where/how can I delete/edit the custom user field that I created?
+- Account Settings > Account Info > Performance:
+  - common_faq: |-
+      - We have removed the credit limit for one of our users, why are they still being limited to x amount of credits?
+      - Why can't I remove/change the credit limit on my profile despite being an admin?
+- Account Settings > Users & teams > Overview:
+  - what_it_cover: General questions
+    common_faq: |-
+      - Can non-admins add new users?
+      - What happens when I deactivate a user? Will their data be lost?
+- Account Settings > Users & teams > Actions:
+  - what_it_cover: |-
+      Users
+      - Current Users
+      -- Request to Add User
+      -- Invite Teammates
+      -- New User
+      -- Export to CSV
+      -- Force logout
+      -- Deactivate
+      -- Reactivate
+      - Pending users
+      -- Approve/Reject
+    common_faq: |-
+      - I am a non-admin, how can I request to add a new user?
+      - How do I add/invite a new user?
+      - How do I delete a user from our account?
+- Account Settings > Users & teams > Settings:
+  - what_it_cover: |-
+      Users
+      - Current Users
+      -- Edit permissions
+      -- Assign territories
+      -- Assign teams
+      - User Fields
+      -- Create Field
+
+      Teams
+      - New Team
+      - Edit Team
+      - Delete Team
+
+      Permission Profiles
+      - New Profile / Edit / Clone
+
+      Security
+      - Multi-factor authentication
+      - IP whitelisting
+      - Password policy
+      - Login controls
+      - Single sign on
+    common_faq: |-
+      - How can I restrict non-admins from accessing sequences?
+      - How can I ensure that non-admins can only view their own emails/specific territories?
+      - How do I assign territories to some of my team members?
+      - I want to view analytics for a group of users in my team. How do I do this without selecting each user one by one?
+      - Can a user belong to multiple teams?
+      - Why can't I access all admin settings?
+- Account Settings > System activity > Actions:
+  - what_it_cover: |-
+      Data requests
+      - Email requests
+      - Mobile number requests
+      - Waterfall requests
+      - CRM field
+      - AI word word usage history
+      - Data automation requests
+
+      System activity log
+    common_faq: |-
+      - I only requested X emails/mobile, but why am I being charged X credits?
+      - Why am I getting an error that says "Duplicate mapping passed for contact: email, email"?
+      - What are "actual credits" under the waterfall data request?
+- Account Settings > Subscription & Usage Management > Overview:
+  - what_it_cover: General questions
+    common_faq: |-
+      -i had around 2600 email credits but now it's showing only 200+? (account's variant was changed to unified credits)
+- Account Settings > Subscription & Usage Management > Actions:
+  - what_it_cover: |-
+      Plan overview
+      Plan Overview
+      - Purchase Plan/Manage subscription
+      - Credits usage
+      Credit usage
+      - Current credit usage
+      - About Credits
+      - History
+      - Historical Credit Usage
+      - Credit usage by other sources
+      AI word usage
+      - Team AI-generated word usage
+      - Team's AI word usage history
+      Power-ups usage
+      - Power-ups usage
+      - Power-ups usage by team member
+    common_faq: -Trial extension
+- Account Settings > Subscription & Usage Management > Settings:
+  - what_it_cover: |-
+      Plan overview
+      Billing
+      - Credit Card Information
+      - Update credit card
+      - Company Address
+      - Update Company Address
+      - Billing information
+      - Save Billing Information
+      - Send Invoices To
+      - Additional Invoice Information
+      - Invoice History
+      License Settings
+      - Invitations and teammates
+      -- Allow auto-join from same domain
+      -- Allow auto-purchase of new seats
+      -- Invite by link
+      -- Assign default permission profiles
+      - Domain
+      -- Request domain change
+- Account Settings > Subscription & Usage Management > Errors:
+  - what_it_cover: |-
+      Any error messages encountered by utilizing Subscription & Usage Management-covered functionality
+- Account Settings > Data Management > Overview:
+  - what_it_cover: General questions
+- Account Settings > Data Management > Actions:
+  - what_it_cover: |-
+      Imports and exports
+      Contact Import
+      Account Import
+      Deals Import
+      Failed Exports
+      CSV Exports
+      Enriched CSVs
+- Account Settings > Data Management > Settings:
+  - what_it_cover: |-
+      Objects, fields, stages
+      Contacts
+      - Stages
+      -- Add stage / Edit stage / Delete stage
+      - Contact roles
+      -- Add role / Edit role / Delete role
+      - Triggers
+      -- Email Triggers
+      -- Call Triggers
+      - Fields
+      -- Create Field / Edit Field / Delete Field
+      Accounts
+      - Stages
+      -- Add stage / Edit stage / Delete stage
+      - Triggers
+      -- Triggers & Exclusions
+      - Fields
+      -- Create Field / Edit Field / Delete Field
+      Deals
+      - Stages
+      - Pipelines
+      -- Create Pipeline / Edit Pipeline / Delete Pipeline
+      - Deal roles
+      -- Add role / Edit role / Delete Role
+      - Fields
+      -- Create Field / Edit Field / Delete Field
+      - Currency
+      -- Company currency
+      Global picklists
+      New Global Picklist Value Set
+      Edit Picklist
+      Delete Picklist
+      Imports and exports
+      CSV Export Settings
+      - Contact CSV Export Setting
+      - Account CSV Export Setting
+      Analytics
+      Custom metrics
+      - New Custom metric / Edit / Delete
+      - Move to folder
+      - Clone
+      Goals
+      - Select stage type
+      - Map stage to meeting
+- Account Settings > Data Management > Filters:
+  - what_it_cover: |-
+      Analytics
+      Custom metrics
+      - Hide/Show filters
+      - Folder
+- Account Settings > Data Management > Errors:
+  - what_it_cover: Any error messages encountered by utilizing Data Management functionality
+- Account Settings > Workspace settings > Overview:
+  - what_it_cover: General questions
+- Account Settings > Workspace settings > Ideal Customer Profile:
+  - what_it_cover: |-
+      Personas
+      - Add Persona / Edit Persona / Clone Persona / Delete Persona
+      - Generate personas using AI
+      Account Segments
+      - Create account segment
+      Buying intent
+      - Select Intent Topic
+      Website visitors
+      - Apollo script
+      - Copy code
+      - Website Domains
+      - Test connection
+      - Add Domain
+      Signals
+      - Create signal / edit signal / delete signal
+      - Signal groups
+      Scoring
+      - Create score / edit score / delete score
+      - set score as primary
+- Account Settings > Workspace Settings > AI content center:
+  - what_it_cover: |-
+      - Strategy
+      - Email preview
+      - Generate Preview for Contact
+- Account Settings > Workspace Settings > Rules of Engagement:
+  - what_it_cover: |-
+      Snippets
+      - New Snippet / Edit snippet / delete snippet
+      Prospecting Config
+      - GDPR Compliance
+      - Job change alerts
+      - Duplicate Account Handling
+      - Email Syncing
+      - Mobile Numbers
+      - Exclude Account Stages
+      - Primary Email Address
+      - DNC list screening
+      Playbooks
+      Territories
+      - New Territory / Edit Territory / Delete Territory / Duplicate
+- Account Settings > Workspace Settings > Team email & sequences:
+  - what_it_cover: |-
+      Tracking subdomain
+      - Create subdomain
+      - Deactivate
+      - Check Stats
+      - Check Health
+      Sequences
+      - Sequence Alerts
+      - Priority settings
+- Account Settings > Workspace Settings > Team Dialer:
+  - what_it_cover: |-
+      Dispositions
+      - Add Disposition / Edit disposition / Delete disposition
+      - Triggers
+      Purposes
+      - Add Purpose / Edit Purpose / Delete Purpose
+      Contexts
+- Account Settings > Workspace Settings > Context:
+  - what_it_cover: '- Context Settings'
+- Account Settings > Workspace settings > Filters:
+  - what_it_cover: |-
+      Scoring & Signals
+      Scoring
+      - Hide/show filters
+      - Owned by
+      - Target type
+      - Category
+      Signals
+      - Hide/show filters
+      - Signal group
+      - Owned by
+      - Target type
+      Rules of Engagement
+      Snippets
+      - Hide/show filters
+      - Starred
+      - Tagged
+      - Owned by
+      - Folders
+      - Sort By
+      - Export
+      Territories
+      - Hide/show filters
+      - Owned by
+      - Assigned to
+      Team email & sequences
+      Sequences
+      - Best Times
+      -- Date Range
+      -- User
+      -- Sequences
+      -- Discard if total is under
+      -- Best email times
+      -- Best call times
+- Account Settings > Workspace settings > Errors:
+  - what_it_cover: Any error messages encountered by utilizing Workspace settings functionality
+- Platform > Performance > Performance:
+  - what_it_cover: Website down
+    common_faq: Why is my page not loading?
+- Platform > Security > Performance:
+  - what_it_cover: Platform security issues
+- Platform > Platform > Limitations:
+  - what_it_cover: Update platform language
+- Information request > Product feedback > Overview:
+  - what_it_cover: |-
+      General questions about:
+      - UX research surveys
+      - Tremendous Gift Cards
+      - Amazon Gift cards
+      - G2 Review
+      - Customer Reviews
+      - General customer feedback to Apollo.io
+    common_faq: |-
+      - Is the G2 promotion legit?
+      - Someone from research asked me about how we use Apollo features. How do we get the gift card?
+      - I received an email about a survey where I will be given a gift card. What is this about?
+      - Is there somewhere where I can check customer success stories or testimonials?
+- Information request > Product feedback > Limitation:
+  - what_it_cover: |-
+      Unexpected delays or lack of:
+      - Email with the gift card from Research
+      - Automated email from G2
+    common_faq: |-
+      - Did not receive a voucher after leaving a G2 review / UX survey
+      - Did not receive the UX research surveys gift card
+- Information request > Product feedback > Errors:
+  - what_it_cover: |-
+      Errors encountered with feedback-related UI/infrastructure. Examples:
+      - Leaving a review
+      - Utilizing/Redeeming a gift card
+    common_faq: |-
+      - "An error occurred after submitting your review. Check your connection and try again".
+      - "Unfortunately, your review was not one of the first we received and is therefore not eligible for a gift card..."
+      - "Unable to verify use: Our moderation team was unable to approve your review because we could not verify your firsthand professional use of.."
+- Information request > Product feedback > Performance:
+  - what_it_cover: Latency/difficulties with feedback-related UI/infrastructure
+    common_faq: '- Success stories page not working properly/not loading'
+- Information request > Documentation > Overview:
+  - what_it_cover: |-
+      General questions about Apollo documentation, examples:
+      - Security questionnaire
+      - ISO 27001
+      - SOC-2 Type 2
+      - DPA
+      - Tax Residency Certificate
+      - W-9
+      - Certificate of Incorporation
+      - Registration Certificate form GST
+      - No PE Certificate
+      - Form 10F
+    common_faq: |-
+      - Our company requires a security questionnaire to be filled up. Can you please help with that?
+      - What information is available in the Apollo Trust Center regarding security and compliance?
+      - Is your Tax Residency Certificate valid for multiple years, or does it need to be renewed annually?
+- Information request > Documentation > Actions:
+  - what_it_cover: |-
+      Topics Related to Taking Action on Information Requests:
+
+      Trust Center:
+      - Request Access
+      - Bulk Download Documents
+      - Subscribe for Updates
+      - Share
+
+      Attached Documentation/Files or links included in chat/email . Example:
+      - No PE (Permanent Establishment) Certificate
+      - Form 10F
+    common_faq: |-
+      - Can you share your latest ISO 27001 certification? / How often is your ISO 27001 certification renewed?
+      - I would like to ask for Certificate of Incorporation and Registration Certificate form GST
+      - Our Accounting team requires a "Tax Residency Certificate 2025" for Romania from Apollo. Do you provide that?
+      - How do I get updated when there are updates to Apollo.io's documentation?
+      - How do I download multiple documents at once?
+- Information request > Documentation > Errors:
+  - what_it_cover: |-
+      If there are any error messages encountered with documentation-related UI/infrastructure
+- Information request > Product updates > Overview:
+  - what_it_cover: |-
+      General questions about major updates/changes to the Apollo product. Examples:
+      - Apollo 3.0
+      - Apollo 4.0
+      - Apollo Air
+      - Olympus
+      - Pantheon
+    common_faq: |-
+      - What is Apollo Air?
+      - Why was I selected for Apollo Air?
+      - How long will I have access to Apollo Air?
+      - When will Apollo 3.0 launch?
+      - What features will Apollo 3.0 have?
+      - What is Apollo 4.0?
+- Information request > Community Engagement > Overview:
+  - what_it_cover: |-
+      General questions about community engagement projects/initiatives/events. Examples:
+      - Olympus (event)
+      - Sales Slack Community
+      - Webinar/Onboarding
+      - Demos
+      - Outbound sales book
+      - Apollo Magazine
+      - Apollo Academy
+      - Onboarding hub
+      - Reach out success team
+      - Apollo's knowledge base
+      - Upwork
+    common_faq: |-
+      - When and where will the Olympus event be?
+      - Do you have any communities I can join to talk with other Apollo users?
+      - What training resources do you offer for existing Apollo customers?
+      - Our company is thinking of purchasing a plan. Are there any demos I can share to my team?
+      - Can someone hop on a call with me to do a demo?
+      - I want to learn more about how to make the most of my Apollo plan
+      - Are there any resources you can share for me to learn more about Apollo?
+- Information request > Community Engagement > Actions:
+  - what_it_cover: UI actions that utilize the Community Engagement offerings of Apollo.
+    common_faq: |-
+      - How to Signup for Olympus
+      - How to Register for a Webinar
+      - HS forms signup for Sales Slack Community
+- Information request > Community Engagement > Limitation:
+  - what_it_cover: |-
+      Intentional/By design Issues encountered with Community Engagement-related UI/infrastructure
+    common_faq: |-
+      - Did not receive a webinar link after signing up
+      - I did not receive the Outbound Sales book after I requested it.
+- Information request > Community Engagement > Errors:
+  - what_it_cover: Errors encountered using community engagement-related UI/infrastructure
+    common_faq: |-
+      - (Webinar) "An unexpected error occurred. Please contact support for help."
+      - (Slack Community) "This person is already in your workspace, but their account is deactivated. To manage their account go to Workspace Settings > Manage Members"
+- Information request > Community Engagement > Performance:
+  - what_it_cover: Latency issues encountered using community engagement-related UI/infrastructure
+    common_faq: '- Webinar registry is stuck in Loading'
+- Information request > Miscellaneous > Overview:
+  - what_it_cover: |-
+      - Job Application
+      - Reach Apollo Employee
+      - Feedback about Apollo Employee
+      - Hidden Chat Widget
+      - Data Sharing
+    common_faq: |-
+      - Are there any job availabilities in Apollo.io? / How do I join your team as another Support person?
+      - I'm looking to speak with Josh, can you direct me to him?
+      - I want to give feedback about xxx who I spoke to before.
+      - I want to speak with my Account Manager
+      - Does Apollo make my Salesforce data available to everyone?
+      - What data of mine is being shared to Apollo?
+      - How do I list my company in your website?
+      - How do I speak with chat support?
+      -How can I enable dark mode/switch to dark theme in Apollo?
+      -I would like to see if Apollo can be used a CRM system.
+- Information request > Miscellaneous > Limitation:
+  - what_it_cover: |-
+      Intentional/By design Issues encountered with miscellaneous-related UI/infrastructure
+    common_faq: |-
+      - How come we don't have the Support Chat icon?
+      - I can't start a new chat!
+- Information request > Miscellaneous > Performance:
+  - what_it_cover: Latency encountered with miscellaneous-related UI/infrastructure
+    common_faq: '- The chat widget is not loading my previous chats'
+- Engage > Sequences > Overview:
+  - what_it_cover: General info about sequences
+    common_faq: What are sequences used for?
+- Engage > Sequences > Settings:
+  - what_it_cover: "Schedules\n- New/edit/delete\n- Time Zone\n- Contact local time zone\n- Skip US national holidays\n- Sending windows\n- Make default\n\nRulesets\n- New/edit/delete\n- Set default\n- Reply account - not sent\n- Reply account - do nothing\n- Reply account - delay email\n- Phone task if open x \n- Finished when clicks \n- Unresponsive if no reply\n- Not sent if contact stage\n- Not sent if account stage\n- Finished when reply\n- Pause when OOO reply\n- Finished if meeting\n- Finished when unsubscribe\n- Finished if call connects\n- Failed when bounce/spam\n- Sequence daily limit\n- CC all emails\n- BCC all emails\n\n- Permissions\n- Visibility and Sharing\n- Sequence name\n- Folder\n- Tags\n- Owner\n- Sequence type\n- Activity log\n\nSequence steps ***\n- add/edit/delete\n- activate/pause\n- move up/down\n- Step type\n- Wait time\n- Add A/B test\n- LinkedIn steps"
+    common_faq: |-
+      user is requesting to add an email to be CCd: Related to sequence rulesets
+      Why are my emails not sending?
+      How do I set the default time zone for a sequence?
+      What happens if a contact’s local time zone is not detected?
+      Can I customize the list of holidays to include international holidays?
+      What happens to emails scheduled outside of the sending window?
+      Who can access and edit this sequence?
+      Can I customize the permissions for specific users or groups?
+      Are there different levels of permissions, such as view-only or edit access?
+      How can I share this sequence with a teammate?
+      How can I move this sequence to a different folder?
+      If the sequence owner's account got deactivated, what happens to the sequence?
+      Can I change the type of this step after it’s created?
+      Why is my sequence not sending emails?
+- Engage > Sequences > Actions:
+  - what_it_cover: "Contacts \n- add contacts\n- select contacts\n- pause\n- resume\n- set stage\n- set custom field \n- Mark as finished \n- remove from the sequence \n- auto-resume\n- email from different user \n- add to lists \n- remove from lists \n- View accounts \n- create tasks \n- export \n- push to CRM \n- edit contact\n\nReport \nDashboards\n- Sequence funnel by contact\n- Sequence funnel by email\n- Most engaged audience\n- Audience details\n\nEmail statistics\n- Active \n- Paused\n- Finished\n- Bounced\n- Not sent\n- Scheduled\n- Delivered\n- Open\n- Reply \n- Interested\n- Opt out\n\nSequences\n- From scratch \n- Clone\n- Pre-formatted\n- AI-assisted\n- Activate/Pause\n\nExport\n\nRun Sequence Diagnostics"
+    common_faq: |-
+      How can I add contacts to a sequence?
+      Can I manually set the contact stage?
+      How can I remove contacts from a sequence?
+- Engage > Sequences > Filters**:
+  - what_it_cover: "- Search \n- Starred\n- Owned by\n- Tags\n- Status\n- Performance\n- Folders\n- Shared by\n- VIew"
+    common_faq: |-
+      How can I see archived sequences
+      How a team member can see his sequences filtering by ownership
+- Engage > Sequences > Limitations:
+  - what_it_cover: |-
+      - Sequence steps limits (based on plan)
+      - Number of sequences (based on plan)
+    common_faq: |-
+      Why are my emails from Step X delayed
+      Why can’t I activate another sequence
+- Engage > Sequences > Errors:
+  - what_it_cover: '- Feature errors'
+- Engage > Sequences > Performance:
+  - what_it_cover: '- Sequences not being displayed'
+    common_faq: The statistics on my sequneces are not showing
+- Engage > Email > Overview:
+  - what_it_cover: General info about emails
+    common_faq: Where can I see my emails
+- Engage > Email > Settings:
+  - what_it_cover: "Manage mailboxes\n- Link mailbox\n- Refresh aliases\n- Check mailbox health\n- Start ramp-up\n- Start warm-up\n- Check deliverability \n- Send emails from Sendgrid\n- Send emails from Mailgun \n- Unlink mailbox\n- Make default\n\nMailbox settings\n- Sending limits\n- Email Signature\n- Minimum delay \n- From name\n- Opt-out message\n- Unsubscribe headers\n- Include one-click unsubscribe headers\n- Enable Open tracking\n- Enable Click tracking\n\nDeliverability Stats\n- Mailboxes\n- Ramp-up stats\n- Deliverability score\n- Suggestions\n- Email statistics\n- Deliverability Report\n\nView options\n- Fields\n- Applied filters\n- Visibility and sharing"
+    common_faq: |-
+      How do I link a mailbox to a sequence
+      How can I use an alias to my sequence
+      Do I need to set up SPF, DMARC, or DKIM
+      Why are my emails not sending
+      How can I adjust the limit per day/hour
+      Why is the sender name different from the mailbox name
+      Where can I set my signature
+      How can I add an unsubscribe link
+      How can I track open/click
+      Where can I see my bounce/spam rate
+      Where can I see my open/reply rate
+- Engage > Email > Actions:
+  - what_it_cover: |-
+      Emails
+      - Reschedule
+      - Email from different user
+      - Delete
+      - Skip
+      - Retry undelivered
+      - Export
+      - Edit email
+      - Drafted email
+      - Delivery schedule
+      - Schedule
+      - Send now
+      - Show diagnostics information
+      - CRM sync history
+      - Skip email and continue sequence
+      - Delete email and finish sequence
+      AI Assistant
+      - Write with AI
+      - Rephrase
+      - Analyze
+      - Personalized opener
+      Templates
+      - Create template
+      - Name
+      - Folder
+      - Tags
+      - Owner
+      - Subject
+      - Body
+      - Text formatting
+      - Insert link
+      - Upload image
+      - Attach files
+      - Edit raw HTML
+      - Add Vidyard video
+      - Add dynamic variables
+      - Add snippet
+      - Add meeting
+      - Template preview
+      - Specific contact preview
+      - Send a test email to me
+      - Export
+      - Unlink template
+      - Edit template
+      - Statistics
+      Selection
+      - Select the number of emails
+      - Select this page
+      - Select all
+      View
+      - Save as a new view
+    common_faq: "How can I reschedule my emails\nHow can I update a sequence to another mailbox\nI don’t want my internal emails to be tracked in Apollo\nCan I skip an email step so the contact can move forward without receiving it\nWhere can I export/download emails that are opened\nCan I edit the email for one contact but no change the rest\nWhy is my email scheduled at this date/time\nCan I push this email to my CRM\nCan you show me how to activate the Personalized opener\nWhere can I attach a photo or video on my email\nI want to set my emails to say the first/last name or company name of the contact \nCan I edit the font of the email\nCan I preview what the email will look like for a contact\nCan I bulk select emails and then set a specific schedule to send them"
+- Engage > Email > Filters:
+  - what_it_cover: "Emails\n- Status\n- From user\n- Sentiment\n- From email \n- Sequences\n- Contact lists\n- Date Range\n- Not sent reason\n- Email Opened\n- Search emails\n- Clear filters\n- All inboxes\n\nTemplates\n- Search templates\n- Starred\n- Tags\n- Owned by \n- Archived\n- Folders\n- Clear filters"
+    common_faq: |-
+      What sequence are the delayed emails coming from
+      What mailbox / which user is used for emails in sequence xxx
+      Where can I filter the not sent emails based on the cause
+- Engage > Email > Limitations:
+  - what_it_cover: "Email limits \n- Default limit (free plan)\n- High volume of emails (without Sendgrid or Mailgun)\n\nMailboxes\n- Can't link non-Gmail/Microsoft (free plan)\n- Update mailbox name"
+    common_faq: |-
+      Why can’t I increase my sending limit
+      Why can’t I link my custom mailbox
+      Why are my emails showing someone else’s name other than the one on the signature
+- Engage > Email > Errors:
+  - what_it_cover: "Mailboxes\n- Unlinking \n- Provider issues\n- Redirect \n- Enforce manual selecting email providers\n- Unexpected error during Gmail authorization\n- PERMISSION_DENIED: Request had insufficient authentication scopes\n\nEmails\n- Scheduled-delayed\n- Replies not reflecting\n- Duplicate emails\n- Sending now\n- Unsubscribe link error\n- 550 error domain reputation\n- Missing unsubscribe link\n- OOO marked as a reply\n- Missing dynamic variable\n- Delivered emails not received"
+    common_faq: |-
+      Why is my mailbox being removed
+      I’m getting to a Gmail login page when linking my custom mailbox
+      I can’t see the replies on the emails I sent even though they show on the Activities portion of the contact
+      The unsubscribe link it’s working
+      I received an automatic/OOO response but it is logged as a reply instead
+- Engage > Email > Performance:
+  - what_it_cover: issues with the feature
+    common_faq: The page isn't loading
+- Engage > Calls > Overview:
+  - what_it_cover: General info about calls
+    common_faq: |-
+      Where can I see all the calls made
+      Request to be added to a beta feature (e.g. Parallel dialer)
+- Engage > Calls > Settings:
+  - what_it_cover: |-
+      Dialer
+      - Setup number
+      - Use local number (local presence)
+      - Delete number
+      - Outgoing call - bridge
+      - Outgoing call - VoIP
+      - Incoming call - bridge
+      - Incoming call - VoIP
+      - Record voice calls
+      - Debugger
+      - Clear cache
+      - International dialer
+      - Voicemail drops
+      - Emails from missed calls
+
+      View options
+      - Fields
+      - Applied filters
+      - More settings
+    common_faq: |-
+      Where can I request for a new number
+      Can I connect my calls to my phone
+      Can I use my browser to make phone calls
+      What documents do I need to get an international number
+- Engage > Calls > Actions:
+  - what_it_cover: "- New call \n- Call statistics\n- Active calls  \n\nEdit call\n- Edit contact\n- Edit user\n- Set call purpose\n- Set call disposition\n- Edit note\n- Export call\n- Delete call\n- Call transcript\n- Call recording\n- CRM sync history \n-"
+    common_faq: |-
+      How can I make calls
+      Where can I see the rates/statistics of my calls
+      How can I export my calls
+- Engage > Calls > Filters:
+  - what_it_cover: |-
+      - Search calls
+      - Contact
+      - User
+      - Purpose
+      - Direction
+      - Date range
+      - Duration
+      - Contact lists
+      - Disposition
+      - Show active calls
+      - Save as new view
+    common_faq: '- How do we tag questions about filtering the calls based on disposition?'
+    additional_note: |-
+      Taxonomy reference: https://apolloio.slack.com/archives/C06T3MJLQPJ/p1730794495223269
+- Engage > Calls > Limitations:
+  - what_it_cover: |-
+      - SMS
+      - International phone number (based on plan)
+    common_faq: Can I send text message using the Apollo Dialer?
+- Engage > Calls > Errors:
+  - what_it_cover: |-
+      Dialer
+      - No numbers
+      - Phone reject
+      - Transport error (31009)
+      - Number marked as spam
+    common_faq: What is my number getting marked as spam?
+- Engage > Calls > Performance:
+  - what_it_cover: |-
+      Dialer
+      - Dialer freeze
+      - Unclear audio
+      - Audio cuts out
+      - No audio or one-way audio
+      - Microphone not working
+
+      Calls
+      - Calls not connecting
+      - No emails from missed calls
+      - Dialer/call options not showing
+    common_faq: '- The user is saying he is having issues with making calls from the tasks view'
+- Signup / Login > Access & Credentials > Overview:
+  - what_it_cover: |-
+      Questions about accessing an Apollo account through identifiers and authenticators.
+    common_faq: Everything not covered below
+- Signup / Login > Access & Credentials > Actions:
+  - what_it_cover: |-
+      - Sign-up
+      - Log in
+      - Password reset portal
+      - Log out
+      - Account Activation
+      - Single Sign On (SSO)
+      - MFA
+    common_faq: |-
+      - How to log in or log out to the account
+      -I need to log in to my old account but I no longer have access to the company email
+      -Unable to log in due to an inactive user
+- Signup / Login > Access & Credentials > Limitation:
+  - what_it_cover: Any request that the app cannot do
+    common_faq: |-
+      - Need help regaining access to the account. The past admin has already left the company.
+- Signup / Login > Access & Credentials > Errors:
+  - what_it_cover: '- Problems (Sign up error, no activation link, no password reset link)'
+    common_faq: '- I am not receiving my password reset email'
+- Signup / Login > Access & Credentials > Performance:
+  - what_it_cover: Any confirmed issues with login
+- Signup / Login > Session Management > Overview:
+  - what_it_cover: |-
+      Questions about the continuity of a session, ToS and topics involving Apollo accounts, security, etc.
+    common_faq: I cannot log into my account (Access login message)
+- Signup / Login > Session Management > Limitation:
+  - what_it_cover: Any request that the app cannot do
+- Signup / Login > Session Management > Errors:
+  - what_it_cover: |-
+      Unrecognized Account
+      Hacked Account
+      Inactive Account
+- Undefined Issue > Undefined Issue:
+  - what_it_cover: "- We can't determine what the customer needs because they haven't provided sufficient information. This category applies when we need to ask for more details to understand their request.\n\nGuidelines for use: \n- Only apply this tag if there is absolutely no context to assign any other tag. If there’s even one tag we can apply (even if the issue is unclear), don’t use this tag.\n- If we applied this tag early in the conversation due to lack of context and later received more information, go back and remove the tag.\n\nChecklist for Considerations:\n- Was the customer’s request unclear?\n- Does our clarifying question intend to gather missing information?\n- Are there no topics in the customer’s question that we can tag, even if the issue is unclear?\n-- If yes to all of these, then it means the tag should be used."
+    common_faq: |-
+      Use the tag:
+      - *customer doesn't send anything at all*
+      - I want to speak with a person!
+      - *crying emoji*
+      - My account is not working as it should be.
+
+      Don't use the tag:
+      - Can I do campaigns with different LinkedIn accounts? (Sequence Overview)
+      - Why would you charge me? I want my money back! (Refund)
+      - I want to speak with Josh. Can you send me to him? (Miscellaneous Overview)
